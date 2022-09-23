@@ -1,5 +1,5 @@
 # Gimnasio_programacion
-Solución (con la explicación) a problemas de HackerRank, Leetcode y HackerEarth.
+Solución (con la explicación) a problemas de HackerRank, Leetcode, HackerEarth y Turing.
 
 ## HackerRank
 ### Kit de preparación para entrevistas (Interview Preparation kit)
@@ -11,3 +11,17 @@ Solución (con la explicación) a problemas de HackerRank, Leetcode y HackerEart
 |                    |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
 |                    |[Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
 |                    |[Repeated strings](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
+
+
+
+
+## Turing
+### Exámenes de práctica
+
+| **Tema**           | **Pregunta**  | **Python**|  **C++** |   **C**  |
+| ------------------ |:-------------:| ---------:|---------:|---------:|
+| Practice tests |
+|                    |[Baseball game](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Baseball%20Game)
+|                    |[Valid parentheses](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Valid_Parentheses)
+|                    |Winning card
+|                    |Order colors
