@@ -5,7 +5,7 @@ Solución (con la explicación) a problemas de HackerRank, Leetcode, HackerEarth
 ### Kit de preparación para entrevistas (Interview Preparation kit)
 
 | **Tema**           | **Pregunta**  | **Python**|  **C++** |   **C**  |
-| ------------------ |:-------------:| ---------:|---------:|---------:|
+| ------------------ |:-------------:|:---------:|:---------:|:---------:|
 | Warm-up Challenges |
 |                    |[Sales by match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
 |                    |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup)
@@ -19,9 +19,9 @@ Solución (con la explicación) a problemas de HackerRank, Leetcode, HackerEarth
 ### Exámenes de práctica
 
 | **Tema**           | **Pregunta**  | **Python**|  **C++** |   **C**  |
-| ------------------ |:-------------:| ---------:|---------:|---------:|
+| ------------------ |:-------------:|:---------:|:---------:|:---------:|
 | Practice tests |
-|                    |[Baseball game](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Baseball%20Game)
+|                    |[Baseball game](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Baseball%20Game)|[ok](https://github.com/aizzaac/Gimnasio_programacion/tree/main/Baseball_game)|
 |                    |[Valid parentheses](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Valid_Parentheses)
 |                    |Winning card
 |                    |Order colors
