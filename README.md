@@ -23,5 +23,5 @@ Solución (con la explicación) a problemas de HackerRank, Leetcode, HackerEarth
 | Practice tests |
 |                    |[Baseball game](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Baseball%20Game)|[ok](https://github.com/aizzaac/Gimnasio_programacion/tree/main/Baseball_game)|
 |                    |[Valid parentheses](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Valid_Parentheses)
-|                    |[Winning card](https://github.com/osezy/leetcode_sloutions/blob/main/winning%20card.py)|[ok]
+|                    |[Winning card](https://github.com/osezy/leetcode_sloutions/blob/main/winning%20card.py)|[ok](https://github.com/aizzaac/Gimnasio_programacion/blob/main/Winning_card)|
 |                    |Order colors
