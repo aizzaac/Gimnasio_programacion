@@ -1,4 +1,5 @@
 '''
+DISCREPANCIA EN UN CONJUNTO DE DATOS
 Asumir que se te entrega un conjunto que inicialmente contiene números del 1 a n. Desafortunadamente, debido a un error de datos, 
 uno de los números en el conjunto se duplicó a otro número dentro del conjunto, lo que resulta en la repetición de un número y la pérdida
 de otro número.
