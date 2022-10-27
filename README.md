@@ -22,7 +22,7 @@ Solución (con la explicación) a problemas de HackerRank, Leetcode, HackerEarth
 | ------------------ |:-------------:|:---------:|:---------:|:---------:|
 | Practice tests |
 |                    |[Baseball game](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Baseball%20Game)|[ok](https://github.com/aizzaac/Gimnasio_programacion/tree/main/Baseball_game)
-|                    |[Two sum less than k](https://yngyuan.github.io/post/two-sum-and-some-more/)|[ok]
+|                    |[Two sum less than k](https://yngyuan.github.io/post/two-sum-and-some-more/)|[ok](https://github.com/aizzaac/Gimnasio_programacion/blob/main/Two_sum/two_sum.py)
 |                    |[Valid parentheses](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Valid_Parentheses)|[ok]
 |                    |[Winning card](https://github.com/osezy/leetcode_sloutions/blob/main/winning%20card.py)|[ok](https://github.com/aizzaac/Gimnasio_programacion/blob/main/Winning_card)|
 |                    |[Set mismatch](https://www.chegg.com/homework-help/questions-and-answers/suppose-re-given-set-originally-contains-numbers-1-n-unfortunately-due-data-error-one-numb-q90344794)|[ok](https://github.com/aizzaac/Gimnasio_programacion/blob/main/Set_mismatch/set_mismatch.py)|
