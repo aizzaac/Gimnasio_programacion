@@ -32,3 +32,24 @@ Ejemplo 5:
 
 
 import pytest
+
+
+def valid_parentheses(s):
+  
+class TestClass:
+  def test_one(self):
+    assert valid_parentheses("()") == valid, "La respuesta debe ser: válido"
+  def test_two(self):
+    assert valid_parentheses("()[]{}") == valid, "La respuesta debe ser: válido"
+  def test_three(self):
+    assert valid_parentheses("(]") == invalid, "La respuesta debe ser: inválido"
+  def test_four(self):
+    assert valid_parentheses("(])]") == invalid, "La respuesta debe ser: inválido"
+  def test_five(self):
+    assert valid_parentheses("{[]}") == valid, "La respuesta debe ser: válido"
+
+unit_test = TestClass()
+
+if __name__ == "__main__":
+    pytest.main()
+
