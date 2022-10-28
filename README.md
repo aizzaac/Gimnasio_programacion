@@ -22,8 +22,8 @@ Solución (con la explicación) a problemas de HackerRank, Leetcode, HackerEarth
 | ------------------ |:-------------:|:---------:|:---------:|:---------:|
 | Practice tests |
 |                    |[Baseball game](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Baseball%20Game)|[ok](https://github.com/aizzaac/Gimnasio_programacion/tree/main/Baseball_game)
-|                    |[Two sum less than k](https://github.com/nwankwo-ikemefuna/turing-practice)|[ok](https://github.com/aizzaac/Gimnasio_programacion/blob/main/Two_sum/two_sum.py)
-|                    |[Valid parentheses](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Valid_Parentheses)|[ok](https://github.com/aizzaac/Gimnasio_programacion/blob/main/Valid_parentheses/valid_parentheses.py)
+|                    |[Two sum less than k](https://github.com/nwankwo-ikemefuna/turing-practice)|[ok](https://github.com/aizzaac/Gimnasio_programacion/tree/main/Two_sum)
+|                    |[Valid parentheses](https://github.com/noahverner1995/Turing-Coding-Challenges/tree/main/Valid_Parentheses)|[ok](https://github.com/aizzaac/Gimnasio_programacion/tree/main/Valid_parentheses)
 |                    |[Winning card](https://github.com/osezy/leetcode_sloutions/blob/main/winning%20card.py)|[ok](https://github.com/aizzaac/Gimnasio_programacion/blob/main/Winning_card)|
-|                    |[Set mismatch](https://www.chegg.com/homework-help/questions-and-answers/suppose-re-given-set-originally-contains-numbers-1-n-unfortunately-due-data-error-one-numb-q90344794)|[ok](https://github.com/aizzaac/Gimnasio_programacion/blob/main/Set_mismatch/set_mismatch.py)|
-|                    |[Order colors](https://gist.github.com/PedroGaletti/9b3f81c5740ef087f37f81de9e425376)|[ok](https://github.com/aizzaac/Gimnasio_programacion/blob/main/Order_colors/order_colors.py)
+|                    |[Set mismatch](https://www.chegg.com/homework-help/questions-and-answers/suppose-re-given-set-originally-contains-numbers-1-n-unfortunately-due-data-error-one-numb-q90344794)|[ok](https://github.com/aizzaac/Gimnasio_programacion/tree/main/Set_mismatch)|
+|                    |[Order colors](https://gist.github.com/PedroGaletti/9b3f81c5740ef087f37f81de9e425376)|[ok](https://github.com/aizzaac/Gimnasio_programacion/tree/main/Order_colors)
