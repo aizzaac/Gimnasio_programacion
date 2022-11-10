@@ -10,7 +10,7 @@ Dado un str con colores reorganizados, ordenar los colores a su estado original 
 
 Ejemplo 1:
 - Entrada: str = "red2 blue5 black4 green1 gold3"
-- Salida: "green red gold blakc blue"
+- Salida: "green red gold black blue"
 
 Ejemplo 2:
 - Entrada: str = "gold2 black1 white3"
@@ -28,14 +28,20 @@ Restricciones:
 
 import pytest
 
-def order_colors(str):
+def order_colors(str1):
+    #Dividir string por los espacios y enviar a una lista
+    #Ordenar lista por el número
+    str2 = sorted(str1.split(), key=lambda color: color[-1])
 
+    #Convierte lista en string y desaparece el número
+    str3 = ' '.join([str(colo[: -1]) for colo in str2])
 
+    return str3
 
 
 class TestClass:
   def test_one(self):
-    assert order_colors("red2 blue5 black4 green1 gold3") == "green red glod black blue", "La respuesta debe ser: green red glod black blue"
+    assert order_colors("red2 blue5 black4 green1 gold3") == "green red gold black blue", "La respuesta debe ser: green red gold black blue"
   def test_two(self):
     assert order_colors("gold2 black1 white3") == "black gold white", "La respuesta debe ser: black gold white"
 
@@ -43,3 +49,4 @@ unit_test = TestClass()
 
 if __name__ == "__main__":
     pytest.main()
+
