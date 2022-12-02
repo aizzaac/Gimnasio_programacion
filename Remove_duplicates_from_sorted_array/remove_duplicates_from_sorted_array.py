@@ -20,5 +20,10 @@ Ejemplo 2:
 - Explicación: 
 La función debe devolver k = 5, siendo los primeros cinco elementos de nums 0, 1, 2, 3 y 4 respectivamente. 
 No importa lo que se deje más allá de la k devuelta (de ahí que hayan guiones bajos).
+
+Restricciones:
+- 1 <= nums.length <= 3 * 104
+- -100 <= nums[i] <= 100
+- nums está ordenado ascendentemente.
 '''
 
