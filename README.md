@@ -22,7 +22,7 @@ Solución (con la explicación) a problemas de HackerRank, Leetcode, HackerEarth
 | **Tema**           | **Estructura de Datos y algoritmos**  | **Pregunta**  | **Python**|  **C++** |   **C**  |
 | ------------------ |:--------------------------------------|:-------------:|:---------:|:---------:|:---------:|
 | Easy Collection    | Matrices (Arrays)                     | 
-|                    |                                       |[Remove duplicates from sorted array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/)|[ok]
+|                    |                                       |[Remove duplicates from sorted array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/)|[ok](https://github.com/aizzaac/Gimnasio_programacion/tree/main/Remove_duplicates_from_sorted_array)
 |                    |                                       |[Best time to buy and sell stock II](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564/)|[ok]
 |                    |                                       |[Rotate array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/646/)|[ok]
 |                    |                                       |[Contains duplicate](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/578/)|[ok]
