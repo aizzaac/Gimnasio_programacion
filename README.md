@@ -21,7 +21,7 @@ Solución (con la explicación) a problemas de HackerRank, Leetcode, HackerEarth
 
 | **Tema**           | **Estructura de Datos y algoritmos**  | **Pregunta**  | **Python**|  **C++** |   **C**  |
 | ------------------ |:--------------------------------------|:-------------:|:---------:|:---------:|:---------:|
-| Easy Collection    | Vectores (Arrays)                     | 
+| Easy Collection    | Matrices (Arrays)                     | 
 |                    |                                       |[Remove duplicates from sorted array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/)|[ok]
 |                    |                                       |[Best time to buy and sell stock II](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564/)|[ok]
 |                    |                                       |[Rotate array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/646/)|[ok]
